@@ -4,8 +4,6 @@
 
 lang = [
     'python', 
-    'react.js', 
-    'node.js',
     'luaU', 
     'liquid (ruby / shopify)', 
     'html', 
