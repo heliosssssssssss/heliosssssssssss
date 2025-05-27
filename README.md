@@ -2,11 +2,10 @@
 
 https://helios.ac/me 
 
-INSTAGRAM: @helioslolxd 
-\n
-TIKTOK: @heliosfr 
-DISCORD: @heliosxdd 
-TELEGRAM: @helioslolxd
-SNAPCHAT: @tLtok (helios) 
-WECHAT: @helioslolxdd
-ZALO @heliosfr
+INSTAGRAM: @helioslolxd <br>
+TIKTOK: @heliosfr <br>
+DISCORD: @heliosxdd <br>
+TELEGRAM: @helioslolxd <br>
+SNAPCHAT: @tLtok (helios) <br>
+WECHAT: @helioslolxdd <br>
+ZALO @heliosfr <br>
