@@ -3,6 +3,7 @@
 https://helios.ac/me 
 
 INSTAGRAM: @helioslolxd 
+\n
 TIKTOK: @heliosfr 
 DISCORD: @heliosxdd 
 TELEGRAM: @helioslolxd
