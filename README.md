@@ -1,6 +1,8 @@
-# IF YOU REALLY WANT TO KNOW WHO I AM 
+# WHO I AM
 
 https://helios.ac/me 
+
+programming | videography | cybersecurity | video editing | graphic design | entrepreneurship | and more..
 
 INSTAGRAM: @helioslolxd <br>
 TIKTOK: @heliosfr <br>
