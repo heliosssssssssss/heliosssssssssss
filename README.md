@@ -2,7 +2,7 @@
 
 https://helios.ac/me 
 
-programming | videography | cybersecurity | video editing | graphic design | entrepreneurship | and more..
+<i> programming | videography | cybersecurity | video editing | graphic design | entrepreneurship | and more.. </i>
 
 INSTAGRAM: @helioslolxd <br>
 TIKTOK: @heliosfr <br>
