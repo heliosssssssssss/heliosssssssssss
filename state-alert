@@ -1,1 +1,1 @@
-HEY ! We are aware of a issue with our authentication system for short-term storage. Please wait while we fix this.
+HEY ! We are aware of a global-authentication issue across the entire helios.network / We have migrated authentication to SecOpAuth while we resolve the global issue. Please be aware some UDSN keys may fail to rollover from our AWS.
