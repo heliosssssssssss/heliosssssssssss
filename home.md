@@ -12,6 +12,8 @@ SNAPCHAT: @tLtok (helios) <br>
 WECHAT: @helioslolxdd <br>
 ZALO @heliosfr <br>
 
+*If your auth-session resets or it says there is no blog posts, than the auth-session may have failed. You'll need to relogin*
+
 ***Yes I am aware I forked this bio from my Github. I'll change it at some point.***
 
 **ALERT ! KNOWN ISSUES BELOW AND WILL BE FIXED**
