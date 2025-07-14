@@ -1,1 +1,1 @@
-HEY ! We are aware of a global-authentication issue across the entire helios.network / We have migrated authentication to SecOpAuth while we resolve the global issue. Please be aware some UDSN keys may fail to rollover from our AWS.
+HEY ! We are rolling out the new version of hi.auth across the entire helios.network ! In the next 72 hours we will be closely monitoring the authentication-flow.
