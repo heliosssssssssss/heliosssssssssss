@@ -24,7 +24,10 @@ ZALO @heliosfr <br>
  - Multiple UI issues related to auto-size and widget-control on mobile devices. Appears to be present on IOS so far. Android testing shows same results at a less rate. 
  - There (not-confirmed) may be a issue with selecting tags when creating a post, causing different tags to be selected rather than the desired ones. 
  - origin.helios.ac is blocking all requests from dev.helios.ac/origin-fastconnect but not from dev.helios.ac globally. 
- 
+ - The timestamp for post date is supposed to be DD-MM-YYYY not DD/MM/YYYY
+ - Comment timestamps are back to HH-MM-SS and are meant to be HH-MM AM/PM DATE
+ - Same above ^ for notes
+ - Integrate this feature as general section for home and also prod @ secure.helios.ac
  
 
 `Made by @heliosfr | Powered by Helios International | RAY-VERSION : 93E (USEF-81)`
