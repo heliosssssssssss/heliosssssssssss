@@ -28,6 +28,8 @@ ZALO @heliosfr <br>
  - Comment timestamps are back to HH-MM-SS and are meant to be HH-MM AM/PM DATE
  - Same above ^ for notes
  - Integrate this feature as general section for home and also prod @ secure.helios.ac
+ - Various bugs across the platform
+ - No image store for blog gallery 
  
 
 `Made by @heliosfr | Powered by Helios International | RAY-VERSION : 93E (USEF-81)`
