@@ -30,6 +30,6 @@ ZALO @heliosfr <br>
  - Integrate this feature as general section for home and also prod @ secure.helios.ac
  - Various bugs across the platform
  - No image store for blog gallery 
- 
+ - Note API endpoints for sharing do not have v8-secure api route 
 
 `Made by @heliosfr | Powered by Helios International | RAY-VERSION : 93E (USEF-81)`
