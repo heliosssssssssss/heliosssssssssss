@@ -30,6 +30,7 @@ ZALO @heliosfr <br>
  - Integrate this feature as general section for home and also prod @ secure.helios.ac
  - Various bugs across the platform
  - No image store for blog gallery 
- - Note API endpoints for sharing do not have v8-secure api route 
+ - Note API endpoints for sharing do not have v8-secure api route
+ - On mobile, view counts (get-view-counts) is not being called to API, but on desktop it is 
 
 `Made by @heliosfr | Powered by Helios International | RAY-VERSION : 93E (USEF-81)`
