@@ -18,7 +18,7 @@ ZALO @heliosfr <br>
 
 **ALERT ! KNOWN ISSUES BELOW AND WILL BE FIXED**
 
- ~ - SecureAuth and MemoryAuth appear to reset or fail to authenticate sometimes. ~
+ - ~SecureAuth and MemoryAuth appear to reset or fail to authenticate sometimes.~
  - Mobile devices under 950,950 size appear to have an overflow issue on the tag tooltip.
  - There is several scrolling issues related to mobile devices, such as not being able to scroll down fully on the list.
  - Multiple UI issues related to auto-size and widget-control on mobile devices. Appears to be present on IOS so far. Android testing shows same results at a less rate. 
