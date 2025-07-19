@@ -18,7 +18,7 @@ ZALO @heliosfr <br>
 
 **ALERT ! KNOWN ISSUES BELOW AND WILL BE FIXED**
 
- - SecureAuth and MemoryAuth appear to reset or fail to authenticate sometimes. 
+ ~ - SecureAuth and MemoryAuth appear to reset or fail to authenticate sometimes. ~
  - Mobile devices under 950,950 size appear to have an overflow issue on the tag tooltip.
  - There is several scrolling issues related to mobile devices, such as not being able to scroll down fully on the list.
  - Multiple UI issues related to auto-size and widget-control on mobile devices. Appears to be present on IOS so far. Android testing shows same results at a less rate. 
@@ -31,6 +31,7 @@ ZALO @heliosfr <br>
  - Various bugs across the platform
  - No image store for blog gallery 
  - Note API endpoints for sharing do not have v8-secure api route
- - On mobile, view counts (get-view-counts) is not being called to API, but on desktop it is 
+ - On mobile, view counts (get-view-counts) is not being called to API, but on desktop it is
+ - add streak to frontend as it already in backend now 19/07/25
 
 `Made by @heliosfr | Powered by Helios International | RAY-VERSION : 93E (USEF-81)`
