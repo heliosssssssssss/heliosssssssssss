@@ -1,2 +1,1 @@
-We are actively integrating backend network infrastructure with Cloudflare. Issues may arise over the next 72 hours.
-
+We are deploying a fix in the morning @ 29th July IST/UTC+1. This update will allow [fastconnect] to be back online, alongside global website features such as DynamicIP. Downtime is expectdd throughout the day.
